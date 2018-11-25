@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #4169E1;
+	width: 380px;
+/*	height:;*/
+	margin:30px auto;/*居中*/
+	/*height: 1200px;*//*测试距离*/
+	text-align: center;
+}
+.container{
+	background-color: #87CEFA;
+	/*height: 1200px;*//*测试距离*/
+}
+.header{
+	height: 180px;/*头像区域*/
+}
+.header img{
+	margin-top: 80px;
+	width : 100px;
+	border-radius: 50% ;
+}
+.header img:hover{
+	width : 130px;
+}
+
+.name{
+	margin: 30px 0;
+	height: 50px;/*名字区域*/
+	font:30px  Georgia ;
+}
+div h2{
+	font:30px pxGeorgia;
+}
+.content{
+	padding-top: 30px;
+	height: 220px;
+}
+.content li{
+	list-style: none;
+	line-height: 2;
+}
+.footer img{
+	/*padding-top:10px; 
+	border-top: 8px solid #00BFFF;
+	height: 30px;
+	background-color:#00B0FF;
+	font:13px  Georgia;
+	color:  #fff;*/
+
+	margin-bottom: 30px;
+	width : 30px;
+	border-radius: 50% ;
+}
+
